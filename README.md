@@ -1,10 +1,10 @@
-# xaOS
+# xalpOS
 <p align="center">
   <img src="Capture d'écran 2026-10-30 175241.png" alt="xaOS Logo" width="500">
 </p>
 
 A Linux distribution being redesigned from the ground up.
-xaOS ( xalpOS ) is an experimental Linux operating system built on a Debian foundation.
+ xalpOS is an experimental Linux operating system built on a Debian foundation.
 The current version uses an alias-based design, providing a consistent interface over existing Linux tools and components.
 
 Current design:
@@ -65,11 +65,11 @@ PASSWORD: xaos
   \\    /    \\
    \\  /      \\
     \\/        \\
-    /\\          \\
-   /  \\          \\
-  /    \\          \\
- /      \\          \\
-/        \\          \\
+    /\\         \\
+   /  \\         \\
+  /    \\         \\
+ /      \\         \\
+/        \\         \\
 
 
 
