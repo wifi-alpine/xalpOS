@@ -1,6 +1,6 @@
 # xaOS
 <p align="center">
-  <img src="Sans titre 63_20260918183557.png" alt="xaOS Logo" width="500">
+  <img src="Capture d'écran 2026-10-30 175241.png" alt="xaOS Logo" width="500">
 </p>
 
 A Linux distribution being redesigned from the ground up.
